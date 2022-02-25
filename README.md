@@ -12,6 +12,8 @@ npm install -g pnpm
 ```
 rush update
 
+rush build --only @lib/taro-ui
+
 cd my-app
 
 pnpm dev:weapp
