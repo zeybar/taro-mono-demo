@@ -1,0 +1,174 @@
+// DO NOT ADD COMMENTS IN THIS FILE.  They will be lost when the Rush tool resaves it.
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/rush/v5/approved-packages.schema.json",
+  "packages": [
+    {
+      "name": "@lib/taro-ui",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@tarojs/components",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "@tarojs/components-qa",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "@tarojs/mini-runner",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "@tarojs/plugin-less",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "@tarojs/plugin-terser",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "@tarojs/router",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "@tarojs/taro",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "@tarojs/taro-alipay",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "@tarojs/taro-h5",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "@tarojs/taro-qq",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "@tarojs/taro-quickapp",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "@tarojs/taro-rn",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "@tarojs/taro-swan",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "@tarojs/taro-tt",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "@tarojs/taro-weapp",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "@tarojs/webpack-runner",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "@types/react",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "@types/webpack-env",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "@typescript-eslint/eslint-plugin",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "@typescript-eslint/parser",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "babel-eslint",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "babel-plugin-transform-class-properties",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "babel-plugin-transform-decorators-legacy",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "babel-plugin-transform-jsx-stylesheet",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "babel-plugin-transform-object-rest-spread",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "babel-plugin-transform-runtime",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "babel-preset-env",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "babel-runtime",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "eslint",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "eslint-config-taro",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "eslint-plugin-import",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "eslint-plugin-react",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "eslint-plugin-react-hooks",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "eslint-plugin-taro",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "nerv-devtools",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "nervjs",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "regenerator-runtime",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "stylelint",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "stylelint-config-taro-rn",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "stylelint-taro-rn",
+      "allowedCategories": [ "libraries", "production" ]
+    },
+    {
+      "name": "typescript",
+      "allowedCategories": [ "libraries", "production" ]
+    }
+  ]
+}

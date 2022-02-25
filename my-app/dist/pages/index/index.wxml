@@ -1,0 +1,5 @@
+<block wx:if="{{$taroCompReady}}">
+    <view class="index">
+        <test-comp></test-comp><text>Hello world!</text>
+    </view>
+</block>

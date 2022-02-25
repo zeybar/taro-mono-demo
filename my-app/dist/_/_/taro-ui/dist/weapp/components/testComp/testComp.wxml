@@ -1,0 +1,4 @@
+<block wx:if="{{$taroCompReady}}">
+    <view class="timer"><text>TestComp</text>
+    </view>
+</block>
